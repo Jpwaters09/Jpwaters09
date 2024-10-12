@@ -10,7 +10,6 @@
   <a href="https://github.com/Jpwaters09/Python-Projects"><img src="https://img.shields.io/badge/Python%20Projects-Python%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Python Projects" height="30"/></a>
   <a href="https://github.com/Jpwaters09/CPP-Projects"><img src="https://img.shields.io/badge/C++%20Projects-C++%20Projects?logo=C%2B%2B&logoColor=white&labelColor=%2300599C&color=grey" alt="C++ Projects" height="30"/></a>
   <a href="https://github.com/Jpwaters09/Comment-Remover"><img src="https://img.shields.io/badge/Comment%20Remover-Comment%20Remover?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Comment Remover" height="30"/></a>
-  <img src="https://raw.githubusercontent.com/Jpwaters09/Jpwaters09/refs/heads/main/c.svg"/>
 </div>
 
 ##

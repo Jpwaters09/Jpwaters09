@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I’m Jacob Waters, Follow Me For Coding Tutorials / Projects.</h3>
+<h3 align="center">Hi, I’m Jacob Waters, Follow Me For Coding Tutorials / Projects, If you have any project ideas or suggestions please contact me.</h3>
 
 ##
 
@@ -16,8 +16,6 @@
   <a href="https://github.com/Jpwaters09/Python-Projects">
     <img src="https://img.shields.io/badge/Python%20Projects-Python%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Python Projects" height="30" />
   </a>
-
-  ###
 
   <a href="https://github.com/Jpwaters09/CPP-Projects">
     <img src="https://img.shields.io/badge/C++%20Projects-C++%20Projects?logo=C%2B%2B&logoColor=white&labelColor=%2300599C&color=grey" alt="C++ Projects" height="30" />

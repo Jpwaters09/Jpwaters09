@@ -12,6 +12,10 @@
   <a href="https://discord.com/invite/76dFqekSXz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
+
+  <a href="https://paypal.me/JacobW120" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="40" alt="paypal logo"  />
+  </a>
 </div>
 
 ##

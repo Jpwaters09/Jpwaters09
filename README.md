@@ -17,11 +17,11 @@
 <div align="center">
   <h4>Socials:</h4>
   
-  <a href="mailto:jpwaters.github@gmail.com"><img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"/></a>
-  <a href="https://discord.com/invite/76dFqekSXz"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"/></a>
-  <a href="https://paypal.me/JacobW120"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="40" alt="paypal logo"/></a>
-  <a href="https://github.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="40" alt="paypal logo"/></a>
-  <a href="https://patreon.com/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="40" alt="patreon logo"/></a>
+  <a href="mailto:jpwaters.github@gmail.com"><img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="Gmail Logo"/></a>
+  <a href="https://discord.com/invite/76dFqekSXz"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="Discord Logo"/></a>
+  <a href="https://paypal.me/JacobW120"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="40" alt="PayPal Logo"/></a>
+  <a href="https://github.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="40" alt="GitHub Logo"/></a>
+  <a href="https://patreon.com/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="40" alt="Patreon Logo"/></a>
 </div>
 
 ##

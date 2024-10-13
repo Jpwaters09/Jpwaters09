@@ -30,24 +30,24 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"/>
-  
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo"/>
-  <img width="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# Logo"/>
 </div>
 
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpwaters09&locale=en&hide_title=false&layout=compact&card_width=750&langs_count=12&theme=github_dark&hide_border=true" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpwaters09&locale=en&hide_title=false&layout=compact&card_width=750&langs_count=12&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
 </div>

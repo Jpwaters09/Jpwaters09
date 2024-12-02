@@ -5,12 +5,12 @@
 <div align="center">
   <h4>Repositories:</h4>
 
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects"><img src="https://img.shields.io/badge/Raspberry%20Pi%20Projects-Raspberry%20Pi%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Raspberry Pi Projects" height="30" /></a>
-  <a href="https://github.com/Jpwaters09/HTML-Projects"><img src="https://img.shields.io/badge/HTML%20Projects-HTML%20Projects?logo=HTML5&logoColor=white&labelColor=%23E34F26&color=grey" alt="HTML Projects" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Python-Projects"><img src="https://img.shields.io/badge/Python%20Projects-Python%20Projects?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Python Projects" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/CPP-Projects"><img src="https://img.shields.io/badge/C++%20Projects-C++%20Projects?logo=C%2B%2B&logoColor=white&labelColor=%2300599C&color=grey" alt="C++ Projects" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Comment-Remover"><img src="https://img.shields.io/badge/Comment%20Remover-Comment%20Remover?logo=python&logoColor=white&labelColor=%233776AB&color=grey" alt="Comment Remover" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/CS-Projects"><img src="https://img.shields.io/badge/C%23%20Projects-C%23%20Projects?logo=c&logoColor=white&labelColor=8849d6&color=grey" alt="C# Projects" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects" alt="Raspberry Pi Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Raspberry-Pi-Projects&theme=transparent"></a>
+  <a href="https://github.com/Jpwaters09/HTML-Projects" alt="HTML Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=HTML-Projects&theme=transparent"></a>
+  <a href="https://github.com/Jpwaters09/Python-Projects" alt="Python Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Python-Projects&theme=transparent"></a>
+  <a href="https://github.com/Jpwaters09/CPP-Projects" alt="C++ Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=CPP-Projects&theme=transparent"></a>
+  <a href="https://github.com/Jpwaters09/Comment-Remover" alt="Comment Remover"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Comment-Remover&theme=transparent"></a>
+  <a href="https://github.com/Jpwaters09/CS-Projects" alt="C# Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=CS-Projects&theme=transparent"></a>
 </div>
 
 ##

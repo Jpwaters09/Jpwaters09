@@ -63,5 +63,5 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpwaters09&locale=en&hide_title=false&layout=compact&card_width=750&langs_count=20&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpwaters09&locale=en&hide_title=false&layout=compact&card_width=750&langs_count=20&theme=github_dark&hide_border=true" alt="Idiomas más utilizados"/>
 </div>

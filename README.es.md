@@ -7,7 +7,7 @@
 
   <a href="https://github.com/Jpwaters09/Jpwaters09/blob/main/README.md">English</a> <!-- English -->
   |
-  <a href="">Français</a> <!-- French -->
+  <a href="https://github.com/Jpwaters09/Jpwaters09/blob/main/README.fr.md">Français</a> <!-- French -->
   <!--|
   <a href="">普通话</a> <!-- Mandarin -->
   

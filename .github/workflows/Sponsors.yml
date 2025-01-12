@@ -15,6 +15,7 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
           file: 'README.md'
+          template: '* [{{ name }} - {{ login }}]({{ url }})'
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.7.2

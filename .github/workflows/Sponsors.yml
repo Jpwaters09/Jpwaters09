@@ -1,53 +1,23 @@
-name: Update README with Sorted JSON Data
-
+name: Generate Sponsors README
 on:
-  workflow_dispatch:  # Manually trigger the action from the Actions tab
+  workflow_dispatch:
   schedule:
-    - cron: '30 15 * * *'  # Optional: Run daily at 15:30 UTC
-
+    - cron: 0 1 * * *
 jobs:
-  update-readme:
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
 
-      # Install jq (used for JSON parsing and sorting)
-      - name: Install jq
-        run: sudo apt-get install jq
-
-      # Parse, sort the JSON data, and generate Markdown
-      - name: Generate sorted markdown from JSON
-        run: |
-          # Sort the items by 'value'
-          jq '.items | sort_by(.value) | .[] | "* \(.name) - \(.value)"' Sponsors.json > sorted_items.md
-
-      # Read the current README.md, insert sorted content in the middle, and commit
-      - name: Insert sorted data into README.md
-        run: |
-          # Define the markers for where to insert the sorted content
-          START_MARKER="<!-- Start Sponsors -->"
-          END_MARKER="<!-- End Sponsors -->"
-          
-          # Read the current README.md
-          README_CONTENT=$(cat README.md)
-          
-          # Remove existing sorted items section
-          README_CONTENT=$(echo "$README_CONTENT" | sed "/$START_MARKER/,/$END_MARKER/d")
-
-          # Insert the sorted items Markdown into the correct section
-          INSERT_CONTENT=$(cat sorted_items.md)
-          README_CONTENT=$(echo "$README_CONTENT" | sed "/$START_MARKER/ a \\$INSERT_CONTENT")
-
-          # Write the updated README back
-          echo "$README_CONTENT" > README.md
-
-      # Commit the updated README.md
-      - name: Commit updated README
-        uses: EndBug/add-and-commit@v7
+      - name: Generate Sponsors
+        uses: JamesIves/github-sponsors-readme-action@v1.5.6
         with:
-          author_name: "github-actions"
-          author_email: "github-actions@users.noreply.github.com"
-          message: "Automatically updated sorted items list"
+          token: ${{ secrets.PAT }}
+          file: 'README.md'
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4.7.2
+        with:
+          branch: main
+          folder: '.'

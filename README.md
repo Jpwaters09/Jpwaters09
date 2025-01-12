@@ -3,14 +3,12 @@
 ##
 
 <div align="center">
-  <h4>Languages:</h4>
+  <h4>Sponsors:</h4>
+  <a href="https://github.com/sponsors/Jpwaters09" alt="Sponsor Me"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me&message=%E2%9D%A4&color=%23fe8e86" height="40"></a>
+  <a href="https://github.com/sponsors/Jpwaters09" alt="Sponsors"><img src="https://img.shields.io/github/sponsors/Jpwaters09?label=Sponsors" height="40"></a>
 
-  <a href="https://github.com/Jpwaters09/Jpwaters09/blob/main/README.es.md">Español</a> <!-- Spanish -->
-  |
-  <a href="https://github.com/Jpwaters09/Jpwaters09/blob/main/README.fr.md">Français</a> <!-- French -->
-  <!--|
-  <a href="">普通话</a> <!-- Mandarin -->
-  
+  <!-- sponsors -->
+  <!-- sponsors -->
 </div>
 
 ##

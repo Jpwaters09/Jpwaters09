@@ -29,14 +29,5 @@ jobs:
         with:
           branch: main
           folder: '.'
-
-      # Add the step to configure GITHUB_TOKEN to push changes to the repository
-      - name: Commit changes with GITHUB_TOKEN
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add README.md
-          git commit -m "Automated update of the sponsors list"
-          git push https://github.com/${{ github.repository }} HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

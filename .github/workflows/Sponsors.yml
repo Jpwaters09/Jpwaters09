@@ -1,12 +1,14 @@
 name: Generate Sponsors README
+
 on:
   workflow_dispatch:
   schedule:
-    # This is a cron schedule, it will run every day at 15:30. You can change this to whatever you want.x
-    - cron: 30 15 * * 0-6
+    - cron: 30 15 * * 0-6  # Run the action every day at 15:30 UTC
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       # Checkout the repository
       - name: Checkout 🛎️
@@ -16,18 +18,25 @@ jobs:
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1
         with:
-          # The name of this should correspond with the name you gave your secret, in my example this is 'PAT'.
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.PAT }}  # Your PAT secret
 
-          # This should point to your project's readme, or any other type of markdown file you want to add sponsorship information to.
+          # Specify the markdown file to update
           file: 'README.md'
 
       # Deploy the changes back to the main branch of the repository
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          # Typically this should be the name of the base branch, in many cases this is 'main'.
           branch: main
-
-          # As we're deploying changes to our markdown files, this needs to be . to push the root directory back to the repository.
           folder: '.'
+
+      # Add the step to configure GITHUB_TOKEN to push changes to the repository
+      - name: Commit changes with GITHUB_TOKEN
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Automated update of the sponsors list"
+          git push https://github.com/${{ github.repository }} HEAD:main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

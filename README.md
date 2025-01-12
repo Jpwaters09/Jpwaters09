@@ -37,9 +37,11 @@
 
 ##
 
-<h4 align="center">Programming Languages I know:</h4>
+
 
 <div align="center">
+  <h4>Programming Languages I know:</h4>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/>
@@ -48,8 +50,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
   <img width="12"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Logo"/>
-  <img width="12"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo"/>

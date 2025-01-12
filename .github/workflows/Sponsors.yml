@@ -28,8 +28,8 @@ jobs:
       - name: Insert sorted data into README.md
         run: |
           # Define the markers for where to insert the sorted content
-          START_MARKER="<!-- START_SORTED_ITEMS -->"
-          END_MARKER="<!-- END_SORTED_ITEMS -->"
+          START_MARKER="<!-- Start Sponsors -->"
+          END_MARKER="<!-- End Sponsors -->"
           
           # Read the current README.md
           README_CONTENT=$(cat README.md)

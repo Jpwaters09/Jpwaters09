@@ -22,7 +22,7 @@ jobs:
       - name: Generate sorted markdown from JSON
         run: |
           # Sort the items by 'value'
-          jq '.items | sort_by(.value) | .[] | "* \(.name) - \(.value)"' data.json > sorted_items.md
+          jq '.items | sort_by(.value) | .[] | "* \(.name) - \(.value)"' Sponsors.json > sorted_items.md
 
       # Read the current README.md, insert sorted content in the middle, and commit
       - name: Insert sorted data into README.md

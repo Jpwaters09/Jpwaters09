@@ -1,4 +1,5 @@
-<h3 align="center">Hi, I’m Jacob Waters, follow me for coding tutorials / projects, if you have any project ideas or suggestions, please contact me.</h3>
+<h3 align="center">I’m Jacob Waters, a programming and 3D printing enthusiast sharing open-source tutorials and projects, please consider following me.
+</h3>
 
 ##
 

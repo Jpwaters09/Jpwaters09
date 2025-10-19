@@ -23,6 +23,7 @@
   <a href="https://github.com/Jpwaters09/Comment-Remover" alt="Comment Remover"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Comment-Remover&theme=transparent"></a>
   <a href="https://github.com/Jpwaters09/CS-Projects" alt="C# Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=CS-Projects&theme=transparent"></a>
   <a href="https://github.com/Jpwaters09/MYST-Nodes-Add-on-for-Home-Assistant" alt="MYST Nodes Add-on for Home Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=MYST-Nodes-Add-on-for-Home-Assistant&theme=transparent"></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Pico-Projects" alt="Raspberry Pi Pico Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Raspberry-Pi-Pico-Projects&theme=transparent"></a>
 </div>
 
 ##

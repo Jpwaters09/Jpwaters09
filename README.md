@@ -58,9 +58,3 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# Logo"/>
 </div>
-
-##
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jpwaters09&locale=en&hide_title=false&layout=compact&card_width=750&langs_count=20&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
-</div>

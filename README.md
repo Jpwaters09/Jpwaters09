@@ -32,7 +32,7 @@
 <div align="center">
   <h4>Socials:</h4>
   
-  <a href="mailto:jpwaters09.business@gmail.com"><img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="Gmail Logo"/></a>
+  <a href="mailto:contact.jpwaters09@gmail.com"><img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="Gmail Logo"/></a>
   <a href="https://x.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="X Logo"/></a>
   <a href="https://patreon.com/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="40" alt="Patreon Logo"/></a>
   <a href="https://reddit.com/r/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=flat" height="40" alt="Reddit Logo"/></a>

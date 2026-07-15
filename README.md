@@ -1,60 +1,52 @@
-<h3 align="center">I’m Jacob Waters, a programming and 3D printing enthusiast sharing open-source tutorials and projects, please consider following me.
-</h3>
+<h1 align="center">Hi, I'm Jacob</h1>
+<h3 align="center">Full-stack developer & embedded systems builder based in Kent, UK</h3>
 
-##
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+production+web+applications;Designing+PCBs+and+writing+firmware;Running+two+small+businesses;Self-hosting+infrastructure+on+Raspberry+Pi;3D+Printing+Enthusiast&font=Fira%20Code&center=true&width=600&height=40&color=2F80ED&vCenter=true&size=20" alt="Typing animation" />
+</p>
 
-<div align="center">
-  <h4>Sponsors:</h4>
-  <a href="https://github.com/sponsors/Jpwaters09" alt="Sponsor Me"><img src="https://img.shields.io/static/v1?label=Sponsor%20Me&message=%E2%9D%A4&color=%23fe8e86" height="40"></a>
-  <a href="https://github.com/sponsors/Jpwaters09" alt="Sponsors"><img src="https://img.shields.io/github/sponsors/Jpwaters09?label=Sponsors" height="40"></a>
+<p align="center">
+  <a href="mailto:jacob@jpwaters09.com">Email</a> ·
+  <a href="https://x.com/Jpwaters09" target="_blank">X</a> ·
+  <a href="https://reddit.com/u/Jpwaters09" target="_blank">Reddit</a> ·
+  <a href="https://linkedin.com/in/Jpwaters09" target="_blank">LinkedIn</a> ·
+  <a href="https://patreon.com/Jpwaters09" target="_blank">Patreon</a> ·
+  <a href="https://jpwaters09.com" target="_blank">Website</a>
+</p>
 
-  <!-- sponsors --><!-- sponsors -->
-</div>
+---
 
-##
+## About
 
-<div align="center">
-  <h4>Repositories:</h4>
+Soon to be a Sixth Form student at The Canterbury Academy with a background spanning web development, embedded systems, 3D printing, and consumer electronics repair. I run two small businesses and build hardware and software projects independently, from custom PCBs and firmware to full production web applications.
 
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects" alt="Raspberry Pi Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Raspberry-Pi-Projects&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/HTML-Projects" alt="HTML Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=HTML-Projects&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/Python-Projects" alt="Python Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Python-Projects&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/CPP-Projects" alt="C++ Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=CPP-Projects&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/Comment-Remover" alt="Comment Remover"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Comment-Remover&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/File-Converter" alt="File Converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=File-Converter&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/CS-Projects" alt="C# Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=CS-Projects&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/Home-Assistant-Addons" alt="Home Assistant Addons"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Home-Assistant-Addons&theme=transparent"></a>
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Pico-Projects" alt="Raspberry Pi Pico Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jpwaters09&repo=Raspberry-Pi-Pico-Projects&theme=transparent"></a>
-</div>
+## Businesses
 
-##
+**[VoxForm](https://voxform.co.uk)** - UK-based 3D print-on-demand service (co-founder). Designed and built the complete order and payment platform: PHP/MySQL backend, Stripe payment processing, and a transactional email infrastructure (PHPMailer, S/MIME signing, BIMI).
 
-<div align="center">
-  <h4>Socials:</h4>
-  
-  <a href="mailto:contact.jpwaters09@gmail.com"><img margin-right="10px" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="Gmail Logo"/></a>
-  <a href="https://x.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="X Logo"/></a>
-  <a href="https://patreon.com/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="40" alt="Patreon Logo"/></a>
-  <a href="https://reddit.com/r/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=flat" height="40" alt="Reddit Logo"/></a>
-  <a href="https://github.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="40" alt="GitHub Logo"/></a>
-</div>
+**[Tech Repair Solutions](https://techrepairsolutionsuk.square.site)** - Device repair service, Whitstable. Mail-in and drop-off repairs for phones, laptops, tablets, and consoles, covering diagnostics, parts sourcing, and customer-facing workflows.
 
-##
+## Selected projects
 
+- **[Custom mechanical macro pad](https://github.com/Jpwaters09/Macro-Pad)** - 4×3 Cherry MX switch matrix with rotary encoder and SSD1306 OLED display, built around an RP2354A microcontroller. Custom PCB (KiCad), 3D-printed enclosure (Fusion 360), and MicroPython firmware including USB HID implementation.
+- **[Comment Remover](https://apps.microsoft.com/detail/9NPRSTJDZ143)** and **[File Coverter](https://apps.microsoft.com/detail/9PLVMC23SKVK)** - Published on the Microsoft Store, built with WinUI 3 / C#.
+- **Self-hosted home infrastructure** - Home Assistant, WireGuard VPN, AdGuard Home, and containerised services running on Docker/Raspberry Pi, including custom Home Assistant add-ons I built: [Mysterium (MYST) nodes](https://github.com/Jpwaters09/Home-Assistant-Addons/tree/main/MYST%20Nodes) and [Spoolman (3D printing filament management)](https://github.com/Jpwaters09/Home-Assistant-Addons/tree/main/Spoolman).
 
+## Technical skills
 
-<div align="center">
-  <h4>Programming Languages I know:</h4>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# Logo"/>
-</div>
+| Area | Technologies |
+|---|---|
+| Backend & Web | PHP, MySQL, Stripe API, HTML/CSS/JavaScript |
+| Applications & Embedded | C# (WinUI 3), Python, C++, MicroPython, Arduino, KiCad |
+| Infrastructure | Docker, Home Assistant, WireGuard, AdGuard Home |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,cs,python,cpp,raspberrypi,git,github&perline=13" alt="Tech stack icons" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jpwaters09&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpwaters09&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
+</p>

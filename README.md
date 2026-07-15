@@ -47,6 +47,6 @@ Soon to be a Sixth Form student at The Canterbury Academy with a background span
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jpwaters09&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpwaters09&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Jpwaters09&hide_title=true&rank_icon=percentile&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Jpwaters09&hide_title=false&hide_border=true&layout=compact&langs_count=4&theme=transparent" alt="Top languages" height="165"/>
 </p>

@@ -24,7 +24,7 @@ Soon to be a Sixth Form student at The Canterbury Academy with a background span
 
 **[VoxForm](https://voxform.co.uk)** - UK-based 3D print-on-demand service (co-founder). Designed and built the complete order and payment platform: PHP/MySQL backend, Stripe payment processing, and a transactional email infrastructure (PHPMailer, S/MIME signing, BIMI).
 
-**[Tech Repair Solutions](https://techrepairsolutionsuk.square.site)** - Device repair service, Whitstable. Mail-in and drop-off repairs for phones, laptops, tablets, and consoles, covering diagnostics, parts sourcing, and customer-facing workflows.
+**[Tech Repair Solutions](https://techrepairsolutionsuk.square.site)** - Device repair service, Herne Bay. Mail-in and drop-off repairs for phones, laptops, tablets, and consoles, covering diagnostics, parts sourcing, and customer-facing workflows.
 
 ## Selected projects
 

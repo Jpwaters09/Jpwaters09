@@ -18,7 +18,7 @@
 
 ## About
 
-Soon to be a Sixth Form student at The Canterbury Academy with a background spanning web development, embedded systems, 3D printing, and consumer electronics repair. I run two small businesses and build hardware and software projects independently, from custom PCBs and firmware to full production web applications.
+Sixth Form student at The Canterbury Academy with a background spanning web development, embedded systems, 3D printing, and consumer electronics repair. I run two small businesses and build hardware and software projects independently, from custom PCBs and firmware to full production web applications.
 
 ## Businesses
 
